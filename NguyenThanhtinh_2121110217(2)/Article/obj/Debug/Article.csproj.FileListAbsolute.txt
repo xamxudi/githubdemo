@@ -1,0 +1,15 @@
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\bin\Debug\Article.exe.config
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\bin\Debug\Article.exe
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\bin\Debug\Article.pdb
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\obj\Debug\Article.csprojResolveAssemblyReference.cache
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\obj\Debug\Article.Properties.Resources.resources
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\obj\Debug\Article.csproj.GenerateResource.Cache
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\obj\Debug\Article.exe
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\obj\Debug\Article.pdb
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\obj\Debug\Article.Form2.resources
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\obj\Debug\Article.Form3.resources
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\obj\Debug\Article.Form4.resources
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\obj\Debug\Article.Form5.resources
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\obj\Debug\Article.Form6.resources
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\obj\Debug\Article.Form7.resources
+D:\ltwindow\NguyenThanhtinh_2121110217(2)\Article\obj\Debug\Article.Form8.resources

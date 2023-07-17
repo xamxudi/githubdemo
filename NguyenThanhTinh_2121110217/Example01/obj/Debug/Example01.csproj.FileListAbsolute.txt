@@ -1,0 +1,12 @@
+D:\NguyenThanhTinh_2121110217\Example01\bin\Debug\Example01.exe.config
+D:\NguyenThanhTinh_2121110217\Example01\bin\Debug\Example01.exe
+D:\NguyenThanhTinh_2121110217\Example01\bin\Debug\Example01.pdb
+D:\NguyenThanhTinh_2121110217\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\NguyenThanhTinh_2121110217\Example01\obj\Debug\Example01.Form1.resources
+D:\NguyenThanhTinh_2121110217\Example01\obj\Debug\Example01.Properties.Resources.resources
+D:\NguyenThanhTinh_2121110217\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+D:\NguyenThanhTinh_2121110217\Example01\obj\Debug\Example01.exe
+D:\NguyenThanhTinh_2121110217\Example01\obj\Debug\Example01.pdb
+D:\ltwindow\NguyenThanhTinh_2121110217\Example01\bin\Debug\Example01.exe.config
+D:\ltwindow\NguyenThanhTinh_2121110217\Example01\obj\Debug\Example01.exe
+D:\ltwindow\NguyenThanhTinh_2121110217\Example01\obj\Debug\Example01.pdb
